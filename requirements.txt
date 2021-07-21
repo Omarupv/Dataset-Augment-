@@ -1,0 +1,3 @@
+### Reqs ###
+#opencv-contrib-python
+albumentations
